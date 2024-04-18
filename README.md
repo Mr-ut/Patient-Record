@@ -1,4 +1,3 @@
-Certainly! Here's the modified README file to reflect separate frontend and backend folders:
 
 ---
 

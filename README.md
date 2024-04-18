@@ -1,7 +1,7 @@
 
 ---
 
-# Audio Recording Form
+# Patient Record
 
 This project is a web application for recording and reviewing audio recordings along with patient details. It consists of both frontend and backend components.
 
